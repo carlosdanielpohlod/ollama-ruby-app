@@ -91,3 +91,9 @@ Then, you can run the demo:
 ```bash
 ruby mcp_demo.rb
 ```
+
+Demo
+
+https://github.com/user-attachments/assets/f3af7e5e-c1fd-4bf3-88d2-78a9d607cd4a
+
+
