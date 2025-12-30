@@ -69,3 +69,25 @@ ollama pull llama3.1:8b
 ```
 
 You can check more models here: [https://ollama.com/library](https://ollama.com/library)
+
+# Working with MCP Integration
+
+This is a work in progress feature.
+
+create the db
+
+```bash
+ruby db.rb
+```
+
+To make everything work, you need to start the MCP server by running:
+
+```bash
+ruby mcp_server.rb
+```
+
+Then, you can run the demo:
+
+```bash
+ruby mcp_demo.rb
+```
